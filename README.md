@@ -1,3 +1,3 @@
 # codealpha_tasks
-##Submitted by:
+Submitted by:
 **Grisha P**
