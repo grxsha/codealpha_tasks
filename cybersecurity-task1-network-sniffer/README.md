@@ -53,24 +53,6 @@ sudo python3 network_sniffer.py
 
 ---
 
-## Sample Output
-
-```
-Packet Sniffer Started...
-
-==================================================
-Version        : IPv4
-Source IP      : 192.168.1.100
-Destination IP : 142.250.182.46
-Protocol       : 6
-TTL            : 128
-
-Payload:
-b'\x01\xbb\xc5F...'
-```
-
----
-
 ## Algorithm
 
 1. Import the required modules.
@@ -98,17 +80,6 @@ b'\x01\xbb\xc5F...'
 
 ---
 
-## Project Structure
-
-```
-Basic-Network-Sniffer/
-│── network_sniffer.py
-│── README.md
-│── requirements.txt
-│── screenshots/
-```
-
----
 
 ## Author
 
